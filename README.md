@@ -22,7 +22,7 @@ Utilizo o scrapy, onde:
   - imagens do produto
   - url do anuncio
 
-#awslambdafunction
+# awslambdafunction
 Projeto de introdução as tecnologias da AWS. Utilizo no projeto os serviços de:
 1. S3 - Onde armazenei o arquivo csv.
 3. SQS - Tecnologia utilizada para orquestramento do processamento de dados. A fila servia de gatinho para a função Lambda.
